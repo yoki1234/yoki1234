@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate on test.
 - 📫 How to reach me: [Email-ID: akshayashokdj@gmail.com]
 -  ⚡ Fun fact: JavaScript took just 10 days to develop.
--The materials I used for studing: 
+
+- The materials I used for studing: 
 
 
   ✨ HTML and CSS - [The Net Ninja -Youtube Channel]( https://www.youtube.com/c/TheNetNinja );

@@ -11,9 +11,9 @@
   
   ✨ JavaScript - 
   
-       [FreeCodeCamp] ( https://www.youtube.com/watch?v=jS4aFq5-91M&t=26701s ),
+       [FreeCodeCamp]( https://www.youtube.com/watch?v=jS4aFq5-91M&t=26701s ),
        
-       [mdn web doc] ( https://developer.mozilla.org/en-US/docs/Web/JavaScript )
+       [mdn web doc]( https://developer.mozilla.org/en-US/docs/Web/JavaScript )
 
  "May the Force be with you" my fellow programmers. 
 

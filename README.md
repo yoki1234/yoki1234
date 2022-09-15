@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Vonnue.
+- 🔭 I’m currently working to become a full stack developer.
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on test.
 - 📫 How to reach me: [Email-ID: akshayashokdj@gmail.com]

@@ -26,7 +26,7 @@ Note:
  
  ### Yoki'S Project🦸‍♂️
  
- -https://projectofyoki.netlify.app/
+       - https://projectofyoki.netlify.app/
                  
 ------------CodeSpeed------------------------------------------------------------------------------------------------------------------------------
   

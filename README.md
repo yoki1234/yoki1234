@@ -3,7 +3,7 @@
   <h1>Hi there 👋, myself Akshay Ashok a.k.a YoKi.</h1>
  
 - 🔭 I’m currently working to become a full stack developer.
-- 🌱 I’m currently learning JavaScript.
+  - 🌱 I’m currently learning <a href="https://javascript.info/">JavaScript</a>.
 - 👯 I’m looking to collaborate on test.
 - 📫 How to reach me: [Email-ID: akshayashokdj@gmail.com]
 -  ⚡ Fun fact: JavaScript took just 10 days to develop.
@@ -14,10 +14,10 @@
   ✨ HTML and CSS - [The Net Ninja -Youtube Channel]( https://www.youtube.com/c/TheNetNinja );
   
   ✨ JavaScript - 
-  
-       -[FreeCodeCamp]( https://www.youtube.com/watch?v=jS4aFq5-91M&t=26701s )
-       -[FreeCodeCamp]( https://www.youtube.com/watch?v=3PHXvlpOkf4&ab_channel=freeCodeCamp.org )
-       -[mdn web doc]( https://developer.mozilla.org/en-US/docs/Web/JavaScript )
+       [FreeCodeCamp]( https://www.youtube.com/watch?v=jS4aFq5-91M&t=26701s ),
+       [FreeCodeCamp 15 project's]( https://www.youtube.com/watch?v=3PHXvlpOkf4&ab_channel=freeCodeCamp.org ),
+       [mdn web doc]( https://developer.mozilla.org/en-US/docs/Web/JavaScript ),
+       [Javascript.info](https://javascript.info/)
 
  "May the Force be with you" my fellow programmers. 
 

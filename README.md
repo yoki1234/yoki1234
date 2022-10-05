@@ -27,7 +27,7 @@ Note:
  and perhaps for other people.'
 
   <a href="https://projectofyoki.netlify.app/">
-   <img src="yoki's project.png">
+   <img src="yoki_s_project-removebg-preview.png">
   </a>
 </div>
 

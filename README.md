@@ -3,22 +3,32 @@
   <h1>Hi there 👋, myself Akshay Ashok a.k.a YoKi.</h1>
  
 - 🔭 I’m currently working to become a full stack developer.
-  - 🌱 I’m currently learning <a href="https://javascript.info/">JavaScript</a>.
+- 🌱 I’m currently learning <a href="https://javascript.info/">JavaScript</a>.
 - 👯 I’m looking to collaborate on test.
 - 📫 How to reach me: [Email-ID: akshayashokdj@gmail.com]
 -  ⚡ Fun fact: JavaScript took just 10 days to develop.
+<h2>The materials I used for studies:</h2> 
 
-- The materials I used for studies: 
 
-
-  ✨ HTML and CSS - [The Net Ninja -Youtube Channel]( https://www.youtube.com/c/TheNetNinja );
+  <strong>✨ HTML and CSS</strong>
+        <ul> 
+          <li><a href="https://www.youtube.com/c/TheNetNinja">The Net Ninja</a></li>
+        </ul>
+ 
+  <strong>✨ JavaScript</strong>
+       &nbsp;&nbsp;&nbsp;&nbsp;
+       <ul>
+         <li><a href="https://www.youtube.com/watch?v=jS4aFq5-91M&t=26701s ">FreeCodeCamp</a></li>
+         <li><a href="https://www.youtube.com/watch?v=3PHXvlpOkf4&ab_channel=freeCodeCamp.org">15 project's</a> in FreeCodeCamp</li>
+         <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">mdn web doc</a></li>
+         <li><a href="https://javascript.info/">Javascript.info</a></li>
+       </ul>
   
-  ✨ JavaScript - 
-       [FreeCodeCamp]( https://www.youtube.com/watch?v=jS4aFq5-91M&t=26701s ),
-       [FreeCodeCamp 15 project's]( https://www.youtube.com/watch?v=3PHXvlpOkf4&ab_channel=freeCodeCamp.org ),
-       [mdn web doc]( https://developer.mozilla.org/en-US/docs/Web/JavaScript ),
-       [Javascript.info](https://javascript.info/)
-
+<h2>Things I've Done:</h2> 
+  <a href="https://projectofyoki.netlify.app/">
+   <img src="yoki_s_project-removebg-preview.png">
+  </a>
+ 
  "May the Force be with you" my fellow programmers. 
 
 Note:
@@ -26,9 +36,8 @@ Note:
  What's important is that you become the Force - for yourself 
  and perhaps for other people.'
 
-  <a href="https://projectofyoki.netlify.app/">
-   <img src="yoki_s_project-removebg-preview.png">
-  </a>
+  
+
 </div>
 
 

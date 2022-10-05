@@ -1,5 +1,5 @@
                  
-<div style="background:red;">
+<div>
   <h1>Hi there 👋, myself Akshay Ashok a.k.a YoKi.</h1>
  
 - 🔭 I’m currently working to become a full stack developer.

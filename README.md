@@ -1,5 +1,7 @@
-### Hi there 👋
-
+                 
+<div style="background:red;">
+  <h1>Hi there 👋, myself Akshay Ashok a.k.a YoKi.</h1>
+ 
 - 🔭 I’m currently working to become a full stack developer.
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on test.
@@ -23,13 +25,7 @@ Note:
 'May the Force be with you' is charming but it's not important. 
  What's important is that you become the Force - for yourself 
  and perhaps for other people.'
- 
- ### Yoki'S Project🦸‍♂️
- 
-       - https://projectofyoki.netlify.app/
-                 
-------------CodeSpeed------------------------------------------------------------------------------------------------------------------------------
-  
+</div>
 
 
 <!--

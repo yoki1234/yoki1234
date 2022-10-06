@@ -63,7 +63,9 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=yoki1234&margin-w=15&margin-h=15" />
 </div>
 <br>
-
+<img align="right" src="https://tenor.com/view/escoladainteligencia-cobra-cobra-tata-tata-snake-gif-24039192">
+<h2 align="center"></h2>
+<div align="center"> <img src="https://github.com/yoki1234/yoki1234/blob/output/github-contribution-grid-snake.gif" /></div>
  
  <h3 align="center">"May the Force be with you"</h3>
 

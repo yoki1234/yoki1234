@@ -1,6 +1,8 @@
                  
 <div>
   <h1>Hi there, myself Akshay Ashok a.k.a YoKi.</h1>
+  
+ <img align="right" alt="Developer Usama Sarwar" src="images/coding.gif" width="300"/>
  
 - 🔭 I’m currently working to become a full stack developer.
 - 🌱 I’m currently learning <a href="https://javascript.info/">JavaScript</a>.

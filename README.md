@@ -30,13 +30,25 @@
   <a href="https://projectofyoki.netlify.app/">
    <img src="yoki_s_project-removebg-preview.png">
   </a>
- 
- "May the Force be with you" my fellow programmers. 
+  
+<br><h2 align="center"> GitHub Statistics 📈 </h2>
 
-Note:
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoki1234&theme=dark&hide_title=true&include_all_commits=true"/>
+</div><br>
+<div align="center">  
+<img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=yoki1234"> <br><br> 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=yoki1234&margin-w=15&margin-h=15" />
+</div>
+<br>
+
+ 
+ <h3 align="center">"May the Force be with you"</h3>
+
+<p>Note:<br>
 'May the Force be with you' is charming but it's not important. 
  What's important is that you become the Force - for yourself 
- and perhaps for other people.'
+ and perhaps for other people.'</p>
 
   
 

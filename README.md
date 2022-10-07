@@ -57,8 +57,8 @@
 <br><h2 align="center"> GitHub Statistics 📈 </h2>
 
 <div align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=yoki1234&theme=dark&hide_title=true&include_all_commits=true"/>
-    <img height="180" alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=yoki1234"> 
+    <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=yoki1234&theme=dark&hide_title=true&include_all_commits=true"/>
+    <img align="right" height="180" alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=yoki1234"> 
 </div><br>
 <div align="center">  
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=yoki1234&margin-w=15&margin-h=15" />

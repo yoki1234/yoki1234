@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on test.
 - 📫 How to reach me: [Email-ID: akshayashokdj@gmail.com]
 -  ⚡ Fun fact: JavaScript took just 10 days to develop.
+
 <h2>The materials I used for studies:</h2> 
 
 
@@ -56,10 +57,10 @@
 <br><h2 align="center"> GitHub Statistics 📈 </h2>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoki1234&theme=dark&hide_title=true&include_all_commits=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=yoki1234&theme=dark&hide_title=true&include_all_commits=true"/>
+    <img height="180" alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=yoki1234"> 
 </div><br>
 <div align="center">  
-<img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=yoki1234"> <br><br> 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=yoki1234&margin-w=15&margin-h=15" />
 </div>
 <br>

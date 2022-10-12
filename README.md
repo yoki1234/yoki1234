@@ -1,6 +1,8 @@
-                 
+
 <div>
   <h1>Hi there, myself Akshay Ashok a.k.a YoKi.</h1>
+
+[![@yoki's Holopin board](https://holopin.me/yoki)](https://holopin.io/@yoki)
   
  <img align="right" alt="Developer yoki1234" src="coding.gif" width="300"/>
  
@@ -9,6 +11,8 @@
 - 👯 I’m looking to collaborate on test.
 - 📫 How to reach me: [Email-ID: akshayashokdj@gmail.com]
 -  ⚡ Fun fact: JavaScript took just 10 days to develop.
+
+
 
 <h2>The materials I used for studies:</h2> 
 
@@ -31,7 +35,8 @@
   <a href="https://projectofyoki.netlify.app/">
    <img src="yoki_s_project-removebg-preview.png">
   </a>
-  
+
+
 <br><h2 align="center"> Tools & Technology 🛠</h2>
 
 <div align="center">

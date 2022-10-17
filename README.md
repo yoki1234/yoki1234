@@ -3,8 +3,10 @@
   <h1>Hi there, myself Akshay Ashok a.k.a YoKi.</h1>
 
 [![@yoki's Holopin board](https://holopin.me/yoki)](https://holopin.io/@yoki)
+
   
- <img align="right" alt="Developer yoki1234" src="coding.gif" width="300"/>
+  <img align="right" alt="Developer yoki1234" src="coding.gif" width="300"/>
+
  
 - 🔭 I’m currently working to become a full stack developer.
 - 🌱 I’m currently learning <a href="https://javascript.info/">JavaScript</a>.
@@ -39,7 +41,7 @@
 
 <br><h2 align="center"> Tools & Technology 🛠</h2>
 
-<img align="left" alt="Developer yoki1234" src="coding.gif" width="300"/>
+
 
 
 <div align="center">
@@ -76,7 +78,10 @@
 <h2 align="center"></h2>
 <div align="center"> <img src="https://github.com/yoki1234/yoki1234/blob/output/github-contribution-grid-snake.gif" /></div>
  
- <h3 align="center">"May the Force be with you"</h3>
+ <h2 align="center">"May the Force be with you"</h2>
+
+<img align="right" alt="Developer yoki1234" src="handShake.gif" width="500">
+  
 
 <p>Note:<br>
 'May the Force be with you' is charming but it's not important. 

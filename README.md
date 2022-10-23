@@ -33,10 +33,16 @@
          <li><a href="https://javascript.info/">Javascript.info</a></li>
        </ul>
   
-<h2 align="center">Things I've Done:</h2> 
-  <a href="https://projectofyoki.netlify.app/">
-   <img src="yoki_s_project-removebg-preview.png">
-  </a>
+<h2 align="center">Some Yokified Stuff 👾</h2> 
+  <div style="display:flex; align-item:center">
+    <a align="center" href="https://projectofyoki.netlify.app/">
+     <img align="center" width=300 height=40 src="yoki_s_project-removebg-preview.png">
+    </a>
+    <a align="center" href="https://fastidious-unicorn-e05fb8.netlify.app/">
+     <img align="center" width=300 height=200 src="yoki-weather.png" width=500 height=200>
+    </a>
+  </div>
+  
 
 
 <br><h2 align="center"> Tools & Technology 🛠</h2>

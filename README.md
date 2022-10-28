@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning <a href="https://javascript.info/">JavaScript</a>.
 - 👯 I’m looking to collaborate on test.
 - 📫 How to reach me: [Email-ID: akshayashokdj@gmail.com]
--  ⚡ Fun fact: JavaScript took just 10 days to develop
+-  ⚡ Fun fact: JavaScript took just 10 days to develop.
 
 
 

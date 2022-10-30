@@ -1,11 +1,19 @@
 
 <div>
-  <h1>Hi there, myself Akshay Ashok a.k.a YoKi.</h1>
+
+  <h1>
+    <a href="https://app.daily.dev/Yoki">
+       <img align="center" src="https://api.daily.dev/devcards/ec94e2a0f1614629acb979d0ebc3cd62.png?r=i6h" width="100" alt="Akshay Ashok's Dev Card"/>
+    </a>
+    Hi there, myself Akshay Ashok a.k.a YoKi.
+    
+  </h1>
+
 
 [![@yoki's Holopin board](https://holopin.me/yoki)](https://holopin.io/@yoki)
 
   
-  <img align="right" alt="Developer yoki1234" src="coding.gif" width="300"/>
+  <img align="right" alt="Developer yoki1234" src="coding.gif" width="200"/>
 
  
 - 🔭 I’m currently working to become a full stack developer.
@@ -16,14 +24,15 @@
 
 
 
-<h2>The materials I used for studies:</h2> 
+<h2 align="center">
+The materials I used for studies:
+</h2> 
 
 
   <strong>✨ HTML and CSS</strong>
         <ul> 
           <li><a href="https://www.youtube.com/c/TheNetNinja">The Net Ninja</a></li>
         </ul>
- 
   <strong>✨ JavaScript</strong>
        &nbsp;&nbsp;&nbsp;&nbsp;
        <ul>
@@ -32,7 +41,7 @@
          <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">mdn web doc</a></li>
          <li><a href="https://javascript.info/">Javascript.info</a></li>
        </ul>
-  
+
 <h2 align="center">Some Yokified Stuff 👾</h2> 
   <div style="display:flex; align-item:center">
     <a align="center" href="https://projectofyoki.netlify.app/">

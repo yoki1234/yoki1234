@@ -25,7 +25,7 @@
 
 
 <h2 align="center">
-The materials I used for studies:
+The materials I used for studies 👨‍💻
 </h2> 
 
 

@@ -99,7 +99,7 @@ The materials I used for studies 👨‍💻
   
 
 <p>Note :<br>
-"May the Force be with you" -is charming but it's not important. 
+"May the Force be with you" is charming but it's not important. 
  What's important is that you become the Force - for yourself 
  and perhaps for other people.</p>
 

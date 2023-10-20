@@ -91,9 +91,6 @@ The materials I used for studies 👨‍💻
 </div>
 <br>
 <h2 align="center"></h2>
-<div align="center"> <img src="https://github.com/yoki1234/yoki1234/blob/output/github-contribution-grid-snake.gif" /></div>
- 
- <h2 align="center">"May the Force be with you"</h2>
 
 <img align="right" alt="Developer yoki1234" src="handShake.gif" width="500">
   

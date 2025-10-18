@@ -5,7 +5,7 @@
     <a href="https://app.daily.dev/Yoki">
        <img align="center" src="https://api.daily.dev/devcards/ec94e2a0f1614629acb979d0ebc3cd62.png?r=i6h" width="100" alt="Akshay Ashok's Dev Card"/>
     </a>
-    Hi there, myself Akshay Ashok a.k.a YoKi.
+    Hi there, myself Akshay Ashok a.k.a YoKi
     
   </h1>
 

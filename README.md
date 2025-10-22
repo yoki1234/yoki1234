@@ -5,8 +5,9 @@
     Hi there, Myself Akshay Ashok a.k.a YoKi.
   </h1>
 
-<p>My Hactoberfest 2025 badge.</p>
+<p>My Hactoberfest badge.</p>
 
+[![@yoki's Holopin board](https://holopin.me/yoki)](https://holopin.io/@yoki)
 [![An image of @yoki1234's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yoki1234)](https://holopin.io/@yoki1234)
 
   

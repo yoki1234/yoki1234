@@ -2,15 +2,12 @@
 <div>
 
   <h1>
-    <a href="https://app.daily.dev/Yoki">
-       <img align="center" src="https://api.daily.dev/devcards/ec94e2a0f1614629acb979d0ebc3cd62.png?r=i6h" width="100" alt="Akshay Ashok's Dev Card"/>
-    </a>
-    Hi there, myself Akshay Ashok a.k.a YoKi.
-    
+    Hi there, Myself Akshay Ashok a.k.a YoKi.
   </h1>
 
+<p>My Hactoberfest 2025 badge.</p>
 
-[![@yoki's Holopin board](https://holopin.me/yoki)](https://holopin.io/@yoki)
+[![An image of @yoki1234's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yoki1234)](https://holopin.io/@yoki1234)
 
   
   <img align="right" alt="Developer yoki1234" src="coding.gif" width="200"/>

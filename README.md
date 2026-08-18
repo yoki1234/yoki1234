@@ -75,12 +75,6 @@ The materials I used for studies 👨‍💻
 </div>
 <br>
     
-    
-<br><h2 align="center"> GitHub Statistics 📈 </h2>
-
-<div align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=yoki1234&theme=dark&hide_title=true&include_all_commits=true"/>
-    <img height="180" alt="GitHub Streaks" src="https://streak-stats.demolab.com?user=yoki1234&border_radius=4&background=738382FD&border=FFEC0F&ring=FFF638&fire=3AFFEF&sideLabels=FFFC2D&currStreakNum=FFFFFF&stroke=FAFF14&sideNums=FFFFFF&currStreakLabel=0FFFF4&dates=86FF23)](https://git.io/streak-stats"> 
 
 </div><br>
 <h2 align="center">Trophies 🏆</h2>

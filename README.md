@@ -2,7 +2,7 @@
 <div>
 
   <h1>
-    Hello there, Myself Akshay Ashok a.k.a YoKi.
+    Hi there, Myself Akshay Ashok a.k.a YoKi.
   </h1>
 
 <p>My Hactoberfest badge.</p>
